@@ -18,3 +18,8 @@ c.	seletion_population - It filters the elite chromosomes which have highest ret
 d.	evaluation_function-  A function which does mutation,mating or crossover based on a probability and builds a new generation of chromosomes.
 
 4.	Iterate the process calling  evaluation function and selection function until you get a feasible solution until there is no change in maximum returns or you reach the maximum number of iterations.
+
+References:
+1.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4923467/
+2.	https://research.ijcaonline.org/volume117/number1/pxc3902315.pdf
+3.	https://www.researchgate.net/publication/268037272_A_Hybrid_Portfolio_Asset_Selection_Strategy_Using_Genetic_Algorithms_GA
